@@ -1,5 +1,6 @@
+//Setup package name
 package Chapter6;
-
+//import package
 import java.util.Scanner;
 
 public class DebugExercise9{

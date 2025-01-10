@@ -12,7 +12,7 @@ public static double calcAverage(double... numbers) {
 	for (double n : numbers){
 		results += n;
 	} 
-	return results;
+	return results/numbers.length;
    } 
 
 }
